@@ -4,3 +4,14 @@ ORYX_ENABLE = yes
 RGB_MATRIX_CUSTOM_KB = yes
 DYNAMIC_MACRO_ENABLE = yes
 SPACE_CADET_ENABLE = no
+
+
+
+
+
+
+
+
+
+# Custom QMK here
+KEY_OVERRIDE_ENABLE = yes
